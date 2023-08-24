@@ -1,3 +1,3 @@
 # dreamboth_name
 
-### что это такое [Heading link](https://github.com/pandao/editor.md "link")
+### что это такое ? [DreamBoth paper](https://arxiv.org/pdf/2208.12242.pdf "link")
