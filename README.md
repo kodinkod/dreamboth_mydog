@@ -1,3 +1,22 @@
 # dreamboth_name
 
-### что это такое ? [DreamBoth paper](https://arxiv.org/pdf/2208.12242.pdf "link")
+### что это такое ? 
+[DreamBoth(paper)](https://arxiv.org/pdf/2208.12242.pdf "link")  
+ - что это такое
+ - Почему над этим работают?
+ - Как формулируется задача?
+
+ - В чем ее основная идея?
+ - В чем ее новаторство?
+ - Какие получились результаты?
+
+### quickstart
+
+### Результаты обучения 
+
+
+### train
+
+### interference 
+
+### paper 
