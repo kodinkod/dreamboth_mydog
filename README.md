@@ -1,7 +1,6 @@
 # dreamboth mydog genereted
 <p align="center">
 <img src="image/exp1-vangoghe.png"  width="300" /> 
-seed'ы утеряны, веса забыты, картинка потрясающая
 </p>
 
 
