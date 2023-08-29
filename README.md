@@ -196,7 +196,7 @@ _**Замечание**: В статье не рекомендуют испол�
 Слева картинка из датасета, справа сгенерированная! 
 
 <p align="center">
-<img src="/datasets/small_dog/photo_2023-08-26 21.42.24.jpeg.png"   style='float:left;' width="300" /> 
+<img src="/datasets/small_dog/photo_2023-08-26 21.42.24.jpeg"   style='float:left;' width="300" /> 
 <img src="image/in_forest.png"   style='float:left;' width="300" /> 
 </p>
 
