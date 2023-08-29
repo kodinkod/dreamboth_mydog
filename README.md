@@ -59,9 +59,10 @@ _**Замечание**: В статье не рекомендуют испол�
 ## Обучение на картинках моей собаки
 
 <p align="center">
-<img src="image/exp2_1_8.png" style='float:left;' width="225" /> 
-<img src="image/exp2_1_8.png" style='float:left;' width="225" /> 
-<img src="image/exp2_1_8.png" style='float:left;' width="225" /> 
+<img src="dog/photo_2023-08-26 21.42.26.jpeg" style='float:left;' width="190" /> 
+<img src="dog/photo_2023-08-26 21.50.56.jpeg" style='float:left;' width="190" /> 
+<img src="dog/photo_2023-08-26 21.56.13 2.jpeg" style='float:left;' width="190" /> 
+<img src="dog/photo_2023-08-26 21.42.14.jpeg" style='float:left;' width="190" />
 </p>
 <b>Постановка эксперимента: </b>
  - фиксируем train_step = 1300
