@@ -61,10 +61,10 @@ _**Замечание**: В статье не рекомендуют испол�
 ## Обучение на картинках моей собаки
 
 <p align="center">
-<img src="dog/photo_2023-08-26 21.42.26.jpeg" style='float:left;' width="190" /> 
-<img src="dog/photo_2023-08-26 21.50.56.jpeg" style='float:left;' width="190" /> 
-<img src="dog/photo_2023-08-26 21.56.13 2.jpeg" style='float:left;' width="190" /> 
-<img src="dog/photo_2023-08-26 21.42.14.jpeg" style='float:left;' width="190" />
+<img src="datasets/dog/photo_2023-08-26 21.42.26.jpeg" style='float:left;' width="190" /> 
+<img src="datasets/dog/photo_2023-08-26 21.50.56.jpeg" style='float:left;' width="190" /> 
+<img src="datasets/dog/photo_2023-08-26 21.56.13 2.jpeg" style='float:left;' width="190" /> 
+<img src="datasets/dog/photo_2023-08-26 21.42.14.jpeg" style='float:left;' width="190" />
 </p>
 <b>Постановка эксперимента: </b>
 
@@ -196,7 +196,7 @@ _**Замечание**: В статье не рекомендуют испол�
 Слева картинка из датасета, справа сгенерированная! 
 
 <p align="center">
-<img src="image/datasets/small_dog/photo_2023-08-26 21.42.24.jpeg.png"   style='float:left;' width="300" /> 
+<img src="/datasets/small_dog/photo_2023-08-26 21.42.24.jpeg.png"   style='float:left;' width="300" /> 
 <img src="image/in_forest.png"   style='float:left;' width="300" /> 
 </p>
 
@@ -218,9 +218,6 @@ A rare_token dog is sitting at the wheel of the car, her paws on the steering wh
 <img src="image/exp.png"   width="500" /> 
 </p>
 
-<p align="center">
-<img src="image/exp.png"   width="500" /> 
-</p>
 
 
 ## quickstart
