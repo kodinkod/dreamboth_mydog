@@ -1,4 +1,4 @@
-# dreamboth mydog genereted
+# dreamboth. generating pictures with my dog.
 <p align="center">
 <img src="image/exp1-vangoghe.png"  width="300" /> 
 </p>
